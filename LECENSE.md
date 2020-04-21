@@ -1,0 +1,3 @@
+# LIECENSCE
+
+## APACHE 2.0
